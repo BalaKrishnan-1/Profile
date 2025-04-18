@@ -11,7 +11,7 @@
 
 ###
 
-<img align="end" height="150"
+<img align="start" height="150"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBrNW1uczk1em9mZ2hpNXZhdHY4aDFkc3F0bnJvY2psMjMwNzVncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
 # 💻 Tech Stack:
