@@ -10,7 +10,7 @@
 </div>
 
 ###
-<p align="right" style="margin-top:30px">
+<p float="right" style="margin-top:30px">
 <img  height="150" 
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBrNW1uczk1em9mZ2hpNXZhdHY4aDFkc3F0bnJvY2psMjMwNzVncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 </p>
