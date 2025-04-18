@@ -11,8 +11,7 @@
 
 ###
 <p align="center">
-<img  height="150" 
-src="[[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBrNW1uczk1em9mZ2hpNXZhdHY4aDFkc3F0bnJvY2psMjMwNzVncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif](https://tenor.com/e1edJtriZma.gif)](https://tenor.com/view/have-a-great-day-good-day-have-a-good-day-nice-day-enjoy-your-day-gif-4075548981359557732)"  />
+<div class="tenor-gif-embed" data-postid="4075548981359557732" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/have-a-great-day-good-day-have-a-good-day-nice-day-enjoy-your-day-gif-4075548981359557732">Have A Great Day Good Day GIF</a>from <a href="https://tenor.com/search/have+a+great+day-gifs">Have A Great Day GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 # 💻 Tech Stack:
