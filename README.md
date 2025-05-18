@@ -1,5 +1,5 @@
 <h2 align="left">💫 About Me:
-- 👋 Hi, I’m Balakrishnan.k From Thuvarankurichy,Trichy District.<br>- 👀 I’m interested in Full Stack Web Development...<br>- Beginner in Web Development.<br>- Quick Learner,Introvert,Think Out of Box,Friendly And Humble to colleagues.<br>-  I’m currently learning Javascript ...<br>- 💞️ I’m looking to collaborate on Startup Web Developers...<br>- 📫Patience is a Key to Success...<br>-
+- 👋 Hi, I’m Balakrishnan.k From Thuvarankurichy,Trichy District.<br>- 👀 I’m interested in Full Stack Web Development...<br>- Beginner in Web Development.<br>- Quick Learner,Friendly And Humble to colleagues.<br>-  I’m currently learning Javascript ...<br>-  I’m looking to collaborate on Startup Web Developers...<br>- 📫Patience is a Key to Success...<br>-
 </h2>
 
 ###
