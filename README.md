@@ -4,11 +4,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalaKrishnan-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalaKrishnan-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Balakrishnan-1&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Balakrishnan-1&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balakrishnan-1&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+###
+
+![](https://github-profile-trophy.vercel.app/?username=Balakrishnan-1&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
+
+###
+
+![](https://github-contributor-stats.vercel.app/api?username=Balakrishnan-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Balakrishnan-1&icon=0&color=3)](https://visitcount.itsvg.in)
 ###
 <p align="center">
 <img  height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo5bTVtdzFiZjRicXRjeWlqbGNlZmVmczUzbDljODAzbjA1YXNnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGjcyagR37DTtvhOUP/giphy.gif"  />
