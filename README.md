@@ -19,6 +19,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Balakrishnan-1&icon=0&color=3)](https://visitcount.itsvg.in)
 ###
+## 🧠 LeetCode Stats
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Balakrishnan--1-orange.svg?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Balakrishnan-1/)
+
+🔗 Check out my [LeetCode profile](https://leetcode.com/Balakrishnan-1/) for challenges, solutions, and streaks!
+
+<!-- Optional: You can include your LeetCode card from an API like leetcode-stats if you want auto-updating info -->
+
+<!-- Example with leetcode-stats-api -->
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Balakrishnan-1?theme=light&font=JetBrains%20Mono&ext=contest) -->
+###
 <p align="center">
 <img  height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo5bTVtdzFiZjRicXRjeWlqbGNlZmVmczUzbDljODAzbjA1YXNnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGjcyagR37DTtvhOUP/giphy.gif"  />
 </p>
